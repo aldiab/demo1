@@ -1,1 +1,2 @@
 This is file3
+Adding line2 by Bob
